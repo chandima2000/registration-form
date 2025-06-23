@@ -60,7 +60,7 @@ npm install
 3. **Set up environment variables**
 - Create a .env file in the root:
 ```bash
-VITE_REACT_APP_API_BASE_URL=http://localhost:5000
+VITE_REACT_APP_API_BASE_URL=<base_url>
 ```
 
 4. **Run the development server**
